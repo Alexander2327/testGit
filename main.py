@@ -1,6 +1,6 @@
 from not_main import t
 
-x = 8
+x = 5
 y = 15
 z = 66
 p = 11
